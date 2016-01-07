@@ -1,7 +1,6 @@
-test
+首页
 ==============
-username 
-password
+纯markdown blog 测试
 
 First Header  | Second Header
 ------------- | -------------
